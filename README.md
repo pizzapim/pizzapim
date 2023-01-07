@@ -1,3 +1,3 @@
-### I am moving away from GitHub
+### The home of my code has changed
 
-My repositories will be self-hosted at https://git.pizzapim.nl/pim and mirrored to https://gitlab.com/pizzapim
+My repositories are self-hosted at https://git.pizzapim.nl/pim and mirrored to https://gitlab.com/pizzapim
